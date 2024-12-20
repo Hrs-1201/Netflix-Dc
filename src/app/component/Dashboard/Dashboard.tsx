@@ -30,7 +30,7 @@ const HomePage: NextPage = () => {
             className="cursor-pointer"
           />
           <ul className="hidden md:flex space-x-4">
-            <li className="cursor-pointer hover:text-gray-400">Home</li>
+            <li className="cursor-pointer hover:text-gray-400">Hooome</li>
             <li className="cursor-pointer hover:text-gray-400">TV Shows</li>
             <li className="cursor-pointer hover:text-gray-400">Movies</li>
             <li className="cursor-pointer hover:text-gray-400">
