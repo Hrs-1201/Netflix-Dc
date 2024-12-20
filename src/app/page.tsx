@@ -1,8 +1,4 @@
-// import HeroSection from "@/app/component/HeroSection/HeroSection";
-// import GamesShowcase from "@/app/component/GamesShowcase/GamesShowcase";
-// import NewsSection from "@/app/component/NewsSection/NewsSection";
-// import Footer from "@/app/component/Footer/Footer";
-// import Header from "./component/Header/Header";
+
 import Dashboard from "./component/Dashboard/Dashboard";
 
 export default function Home() {
@@ -10,11 +6,7 @@ export default function Home() {
     <>
       <main className="bg-black text-white min-h-screen">
         <Dashboard />
-        {/* <Header />
-        <HeroSection />
-        <GamesShowcase />
-        <NewsSection />
-        <Footer /> */}
+       
       </main>
     </>
   );
