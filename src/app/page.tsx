@@ -12,18 +12,4 @@ export default function Home() {
   );
 }
 
-// import Hero from "@/pages/Hero/Hero";
-// import Header from "./component/Header/Header";
-// import Games from "@/pages/Games/Games";
-// import About from "@/pages/About/About";
 
-// export default function Home() {
-//   return (
-//     <>
-//       <Header />
-//       <Hero />
-//       <Games />
-//       <About />
-//     </>
-//   );
-// }
